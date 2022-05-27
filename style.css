@@ -40,10 +40,6 @@ header {
     height: 300px;
 }
 
-header img {
-    height: auto;
-}
-
 .initial {
     display: flex;
     flex-flow: column nowrap;
